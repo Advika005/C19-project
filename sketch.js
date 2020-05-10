@@ -67,9 +67,9 @@ function setup() {
   
   score = 0; 
   
-  jump  = loadSound("jump.mp3");
-  die = loadSound("die.mp3");
-  checkPoint = loadSound("checkPoint.mp3");
+  jump  = loadSound("jump (1).mp3");
+  die = loadSound("die (1).mp3");
+  checkPoint = loadSound("checkPoint (1).mp3");
 }
 
 function draw() {
